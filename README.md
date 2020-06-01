@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Project Deployed in the following link 
-DEMO : ( https://inspiring-mestorf-b8c6cd.netlify.com/ ) for more information.
+DEMO : ( https://sharp-mayer-2c2a74.netlify.app/ ) for more information.
 
 
 ## Available Scripts
